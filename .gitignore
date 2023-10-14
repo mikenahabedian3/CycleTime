@@ -1,0 +1,18 @@
+# Python and Django related
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.log
+*.sqlite3
+*.token
+
+# Virtual environment
+venv/
+
+# IDE related (for example, for PyCharm)
+.idea/
+
+# macOS
+.DS_Store
+
